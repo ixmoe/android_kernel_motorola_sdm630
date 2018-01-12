@@ -1,3 +1,4 @@
+ccflags-y += -Isound/soc/msm
 # MSM Machine Support
 
 snd-soc-hostless-pcm-objs := msm-pcm-hostless.o
